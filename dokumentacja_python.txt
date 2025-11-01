@@ -1,0 +1,11 @@
+Funkcja wbudowana: zip()
+Krótkie wyjaśnienie: Funkcja zip() łączy elementy z kilku iterowalnych obiektów w krotki, tworząc pary elementów na odpowiadających sobie pozycjach. Działa na zasadzie iteratora i zwraca obiekt zip, który można przekonwertować na listę lub inną strukturę danych.
+Link do dokumentacji: https://docs.python.org/3/library/functions.html#zip
+
+Moduł z biblioteki standardowej: random
+Krótkie wyjaśnienie: Moduł random implementuje generatory liczb pseudolosowych dla różnych rozkładów probabilistycznych. Zawiera funkcje do generowania liczb losowych, wyboru losowych elementów z sekwencji, mieszania kolekcji oraz operacji statystycznych.
+Link do dokumentacji: https://docs.python.org/3/library/random.html
+
+Wyjątek: ValueError
+Krótkie wyjaśnienie: ValueError jest zgłaszany gdy operacja lub funkcja otrzyma argument o prawidłowym typie, ale nieodpowiedniej lub nieprawidłowej wartości. Występuje gdy wartość jest poprawna typologicznie, ale semantycznie nie może zostać zaakceptowana przez daną operację.
+Link do dokumentacji: https://docs.python.org/3/library/exceptions.html#ValueError
